@@ -167,7 +167,7 @@ nav .nav-items {
   }
   .intro-section {
     flex-direction: column;
-    width: 100%;
+    margin: auto;
   }
   .left-section h3 {
     text-align: center;
